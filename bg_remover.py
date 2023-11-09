@@ -6,7 +6,6 @@ from rembg import remove
 import os
 import customtkinter as ctk
 import io
-import webbrowser
 import pygame
 
 ctk.set_appearance_mode("dark")
